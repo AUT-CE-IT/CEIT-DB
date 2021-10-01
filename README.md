@@ -1,2 +1,2 @@
 # CE231
-Principles of database design (DB)
+Principles of Database Design (DB)
